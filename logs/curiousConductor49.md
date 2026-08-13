@@ -1,3 +1,7 @@
+## 2026-08-13
+
+Did some light research into how routes in Express work. Was assigned a ticket for Bookmarked, forked and clone the repo and began local setup (slight snag with getting a local Postgresql database to work – pending progress), and claimed a ticket for Pulseboard.
+
 ## 2026-08-12
 
 Took a closer look around the repo codebase and explored app features (registration, login, creating posts, reacting to posts, editing posts, etc.). Ran into a small comprehension snag with ticket criteria, so waiting on a response.
