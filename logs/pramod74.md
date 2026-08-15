@@ -1,4 +1,10 @@
 
+## 2026-08-14
+
+1. Went through React Fundamantals
+2. Understood the architecture of Pulseboard app - how the frontend available at port 3000 interacts with the backend at port 4000 and the middleware layer - at a high level
+
+
 ## 2026-08-12
 
 1. Refreshed my knowledge of Git by:
