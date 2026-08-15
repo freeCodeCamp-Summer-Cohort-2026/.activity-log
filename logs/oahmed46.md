@@ -1,3 +1,16 @@
+## 2026-08-15
+
+Started looking into fixing each of the problems my PR did not address.
+
+## 2026-08-14
+
+Took a day off.
+
+## 2026-08-13
+
+Couldn't complete the issue, but submitted a PR to avoid going two days with no progress. Got good feedback.
+
+
 ## 2026-08-12
 
 Decided to take on a hard difficulty item to add a caching layer. Took time to research how to do this.
