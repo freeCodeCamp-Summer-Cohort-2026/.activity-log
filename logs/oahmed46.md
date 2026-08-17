@@ -1,3 +1,15 @@
+## 2026-08-17
+
+Aimed at the right endpoint and updated decorator ordering to apply caching properly.
+
+## 2026-08-16
+
+Took a day off.
+
+## 2026-08-15
+
+Started looking into fixing each of the problems my PR did not address.
+
 ## 2026-08-15
 
 Started looking into fixing each of the problems my PR did not address.
@@ -9,7 +21,6 @@ Took a day off.
 ## 2026-08-13
 
 Couldn't complete the issue, but submitted a PR to avoid going two days with no progress. Got good feedback.
-
 
 ## 2026-08-12
 
