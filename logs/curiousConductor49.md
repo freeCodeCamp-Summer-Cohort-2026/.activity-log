@@ -1,3 +1,7 @@
+## 2026-08-18
+
+Started work on a ticket for Pulseboard by reviewing the relevant files and cross-referencing with Express docs. Read about middleware functions and routing in Express.
+
 ## 2026-08-14
 
 Got the local dependencies running for Bookmarked and learnt about how Supabase can be used to set up a free remote database instance. Went over the to-dos and criteria for issue 48 in Bookmarked, saved up resources on using Jest with TypeScript, and made a branch to start ticket work.
