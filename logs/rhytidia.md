@@ -15,3 +15,8 @@ Working on Working on [shiftlog](https://github.com/freeCodeCamp-Summer-Cohort-2
 Spent some time today learning how the existing `list_workers()` function in `app.routers.workers` works. Then started drafting a function that is currently the right overall approach I think but it's a bit bare bones and the moment. It needs more work to check if the role parameter was added correctly, to return an empty list if not, etc. 
 
 Haven't started on tests yet.
+
+## 2026-08-17
+
+- Ran into an issue where the Swagger UI for shiftlog was returning a 500 internal server error. Spent time trying to figure out why and how to address it.
+- Started working on [shiftlog issue 75](https://github.com/freeCodeCamp-Summer-Cohort-2026/shiftlog/issues/75) and found that it is more complicated than I had originally thought. Spent time trying to work through what is needed to fix various parts of the codebase to use timezone-aware objects rather than timezone-naive ones (which is what is in the codebase right now). This is going to take some time to figure out and I'm deciding whether to let someone with more skills take this one on.
