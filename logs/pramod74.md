@@ -1,4 +1,11 @@
 
+## 2026-08-18
+
+1. Refreshed my knowledge of asynchronous programming in JS
+2. Continued with React fundamentals
+3. Understood how data can be queried from local MongoDB instance using built-in Mongoose model methods 
+
+
 ## 2026-08-14
 
 1. Went through React Fundamantals
