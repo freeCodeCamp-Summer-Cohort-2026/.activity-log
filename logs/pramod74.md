@@ -1,4 +1,9 @@
 
+## 2026-08-19
+
+1. Started studying Jest
+
+
 ## 2026-08-18
 
 1. Refreshed my knowledge of asynchronous programming in JS
