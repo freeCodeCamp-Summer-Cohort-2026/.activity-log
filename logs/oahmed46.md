@@ -1,3 +1,7 @@
+## 2026-08-18
+
+Added cache invalidation when a shift is created and deleted. Started working on tests.
+
 ## 2026-08-17
 
 Aimed at the right endpoint and updated decorator ordering to apply caching properly.
