@@ -1,3 +1,7 @@
+## 2026-08-20
+
+Waiting on a PR for a related ticket for Pulseboard to be merged, so reviewed the available changed files and did some light research on Supertest and response methods in Express.
+
 ## 2026-08-18
 
 Started work on a ticket for Pulseboard by reviewing the relevant files and cross-referencing with Express docs. Read about middleware functions and routing in Express.
