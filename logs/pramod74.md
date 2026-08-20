@@ -1,4 +1,10 @@
 
+## 2026-08-20
+
+1. Learnt how Jest can be used alongwith Supertest for integration testing of MERN applications
+2. Analyzed updates.js and updates.test.js files present in the repo
+
+
 ## 2026-08-19
 
 1. Started studying Jest
