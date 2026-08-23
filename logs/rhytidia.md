@@ -25,3 +25,14 @@ Haven't started on tests yet.
 
 - Spent a lot of time today on [shiftlog issue 75](https://github.com/freeCodeCamp-Summer-Cohort-2026/shiftlog/issues/75). Making the necessary syntax change was easy. Trying to figure out if it was going to break anything was not. I spent many hours today and for the past few days trying to understand enough to feel confident that this would not break anything.
 - It won't, but it hides a deeper issue that I'll document and we probably don't want to deal with for the purpose of this sprint--even though this change uses timezone-aware objects the database will still strip the timezone info out so it will disappear. This is already happening in current functionality even when timezone is added by the user when creating shifts, so it doesn't change anything in current functionality. It's just that if this were production and used by people in different timezones that could be an issue.
+
+## 2026-08-22
+
+- I was interested in working on datalens in addition to shiftlog (which I've been working on the whole sprint). Spent a few hours reviewing the datalens codebase and familiarizing myself with Jupyter Hub.
+
+## 2026-08-23
+
+- Worked on [issue #44 in datalens](https://github.com/freeCodeCamp-Summer-Cohort-2026/datalens/issues/44): add an outlier detection cell to the demo notebook.
+- Spent time learning about IQR outlier detection and boxplots
+- Created a cell that shows the first 10 outlier rows using the `detect_outliers` function in `datalens/analysis.py`
+- Created another cell that generates a boxplot of all outliers in the cleaned `data/sample.csv` file
