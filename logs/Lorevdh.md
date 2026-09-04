@@ -9,7 +9,6 @@ Reviewed several repos but noticed many were in languages I’m less familiar wi
 Had some personal issues and discovered my keyboard had stopped working, so I spent time troubleshooting hardware problems.  
 Used the remaining time to refresh my TypeScript knowledge to prepare for contributing more effectively.
 
-
 ## 2026-08-23
 
 Worked on issue #97 for the Bookmarked project and opened a PR adding a new XSS safety test.  
@@ -17,3 +16,18 @@ Spent time debugging Jest/TypeScript issues and learning the project structure. 
 
 I struggled a bit with contributing without synchronous communication or calls, which made it harder to know if I was doing enough, but I stayed engaged and completed my assigned work.  
 Planning to improve consistency and communication going forward.
+
+## 2026-08-31
+
+Reviewed JavaScript basics to refresh core concepts before diving deeper into the History Heroes codebase.
+
+## 2026-09-03
+
+Reviewed Edu’s wireframes and checked how the learner flow aligns with the Core issues.
+Did a personal React review to make sure I’m ready for frontend implementation tasks.
+
+## 2026-09-04
+
+Read through the latest update after the team meeting, functional requirements discussions, ERD and wireframes to stay fully up‑to‑date.
+
+Made a personal file collecting all user stories from Hikari to better understand the project structure.
