@@ -1,3 +1,6 @@
+## 2026-09-02
+Cloned the repo locally, reviewed current repo issues, and made a PR for adding a license file.
+
 ## 2026-09-01
 Gathered resources on using d3.js with React for data visualization. Communicated with team more on next planning steps.
 
