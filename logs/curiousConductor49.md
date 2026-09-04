@@ -1,3 +1,6 @@
+## 2026-09-03
+Attended second weekly meeting. Claimed first issue and made a local branch to begin work on project repo.
+
 ## 2026-09-02
 Cloned the repo locally, reviewed current repo issues, and made a PR for adding a license file.
 
