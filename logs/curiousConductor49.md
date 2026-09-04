@@ -1,3 +1,6 @@
+## 2026-09-04
+Did light research into how Next.js vs React handle routing. Created folder to store app pages and set up component file for the skeleton about page (just needs actual JSX).
+
 ## 2026-09-03
 Attended second weekly meeting. Claimed first issue and made a local branch to begin work on project repo.
 
