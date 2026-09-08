@@ -1,3 +1,8 @@
+## 2026-09-08
+
+1. Started learning Figma
+2. Learnt a few more Git commands
+
 
 ## 2026-08-20
 
