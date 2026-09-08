@@ -1,6 +1,6 @@
 ## 2026-09-04
 **history-heroes - functional requirements**
-- Finished first draft after feedback on PR #29 through live VSCode and voice chat with team member and registered changes in the PR comments
+- Collaborated on finishing first draft after feedback on PR #29 through live VSCode and voice chat with team member and registered changes in the PR comments
 
 ## 2026-09-03
 **history-heroes - functional requirements**
