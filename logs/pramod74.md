@@ -1,3 +1,9 @@
+## 2026-09-09
+
+1. Continued learning Figma
+2. Learnt how to undo most recent local Git commit
+
+
 ## 2026-09-08
 
 1. Started learning Figma
