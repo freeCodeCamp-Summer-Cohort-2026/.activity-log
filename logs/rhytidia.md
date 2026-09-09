@@ -36,3 +36,9 @@ Haven't started on tests yet.
 - Spent time learning about IQR outlier detection and boxplots
 - Created a cell that shows the first 10 outlier rows using the `detect_outliers` function in `datalens/analysis.py`
 - Created another cell that generates a boxplot of all outliers in the cleaned `data/sample.csv` file
+
+## 2026-09-08
+
+- Started a very rough draft landing page for fact frenzy (pushed to my fork but no PR yet)
+- To do that I had to spend time learning enough about React and Tailwind to get a very basic page set up (with help from team lead and also other resources)
+
