@@ -1,3 +1,6 @@
+## 2026-09-08
+Updated fork local repo and took a look at the new frontend page skeletons. Made a separate branch and a blank component file to begin work on a new issue.
+
 ## 2026-09-04
 Did light research into how Next.js vs React handle routing. Created folder to store app pages and set up component file for the skeleton about page (just needs actual JSX).
 
