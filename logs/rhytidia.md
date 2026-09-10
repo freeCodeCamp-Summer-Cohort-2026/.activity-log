@@ -42,3 +42,8 @@ Haven't started on tests yet.
 - Started a very rough draft landing page for fact frenzy (pushed to my fork but no PR yet)
 - To do that I had to spend time learning enough about React and Tailwind to get a very basic page set up (with help from team lead and also other resources)
 
+## 2026-09-09
+
+- Working on the landing page for Fact Frenzy: redid wireframe in response to teammate's comment and I have a working draft now
+- Want to push alongside a draft of the header and footer files as well, and I spent time today looking at examples and docs and trying to figure out how to write those up and hook them onto the landing page (and other pages). No PR yet for this or the landing page, but soon.
+
