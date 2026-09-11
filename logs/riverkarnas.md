@@ -1,3 +1,8 @@
+## 2026-09-10
+**history-heroes - issue #65**
+- Got Swagger's basic setup running in main.ts and confirmed it auto-generates a page from existing endpoints
+- Tried to understand decorators and zod but didn't click for me yet
+
 ## 2026-09-04
 **history-heroes - functional requirements**
 - Collaborated on finishing first draft after feedback on PR #29 through live VSCode and voice chat with team member and registered changes in the PR comments
