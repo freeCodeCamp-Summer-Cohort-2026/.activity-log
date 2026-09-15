@@ -47,3 +47,7 @@ Haven't started on tests yet.
 - Working on the landing page for Fact Frenzy: redid wireframe in response to teammate's comment and I have a working draft now
 - Want to push alongside a draft of the header and footer files as well, and I spent time today looking at examples and docs and trying to figure out how to write those up and hook them onto the landing page (and other pages). No PR yet for this or the landing page, but soon.
 
+## 2026-09-14
+
+- Unexpected family care situation meant I was unable to do as much work as usual this day
+- I learned how to pull a PR into my own workspace to run the code to test, and I provided feedback on the PR I tested.
