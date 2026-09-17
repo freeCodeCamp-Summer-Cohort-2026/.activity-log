@@ -51,3 +51,9 @@ Haven't started on tests yet.
 
 - Unexpected family care situation meant I was unable to do as much work as usual this day
 - I learned how to pull a PR into my own workspace to run the code to test, and I provided feedback on the PR I tested.
+
+## 2026-09-16
+
+- I have been spending time the last couple of days trying to learn how to do a frontend page for Fact Frenzy that has a login form. This is getting into much more depth in React and Next.js than I had with earlier issues I worked on, and it's taking some time to try to understand templates/examples I'm finding online and attempt to develop something for our own site.
+- I have been assigned an issue for this and it may take me a few days to do a PR for it, as I have a lot to learn!
+
