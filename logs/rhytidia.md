@@ -57,3 +57,8 @@ Haven't started on tests yet.
 - I have been spending time the last couple of days trying to learn how to do a frontend page for Fact Frenzy that has a login form. This is getting into much more depth in React and Next.js than I had with earlier issues I worked on, and it's taking some time to try to understand templates/examples I'm finding online and attempt to develop something for our own site.
 - I have been assigned an issue for this and it may take me a few days to do a PR for it, as I have a lot to learn!
 
+## 2026-09-17
+
+- I continued with learning how to do a login form frontend page for Fact Frenzy, but before I got very far into writing code for the issue I had been assigned, our team lead reorganized issues since we have so little time left and so much to do. The issue I was working on got reorganized into something else so I'm no longer working on that one.
+- I commented on one of the new issues that I'd like to start working on it (further developing the frontend landing page that I drafted a very basic page for earlier), but am busy with work all day Sept 18 so can't start work on it until Sept 19 at the earliest.
+
