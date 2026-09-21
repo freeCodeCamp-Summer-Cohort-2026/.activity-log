@@ -62,3 +62,12 @@ Haven't started on tests yet.
 - I continued with learning how to do a login form frontend page for Fact Frenzy, but before I got very far into writing code for the issue I had been assigned, our team lead reorganized issues since we have so little time left and so much to do. The issue I was working on got reorganized into something else so I'm no longer working on that one.
 - I commented on one of the new issues that I'd like to start working on it (further developing the frontend landing page that I drafted a very basic page for earlier), but am busy with work all day Sept 18 so can't start work on it until Sept 19 at the earliest.
 
+## 2026-09-20
+
+- I spent many hours over the weekend planning and started to write the code to update the landing page with new sections. I did a commit with a draft structure at the end of this day.
+
+## 2026-09-21
+
+- I have been asked to stop working on the landing page after having spent some time over the weekend on it so I'm not able to finish what I planned.
+- I spent time today trying to find another issue to pick up instead, as requested. It's challenging to find something I can learn how to do in a short period of time.
+
