@@ -1,3 +1,10 @@
+## 2026-09-20
+**history-heroes - issue #45**
+- First exposure to client side]
+- Went through React Quick Start (https://react.dev/learn)
+- Studied the frontend codebase (details on my learning topics are available on discord)
+- Got the client side up and running
+  
 ## 2026-09-10
 **history-heroes - issue #65**
 - Got Swagger's basic setup running in main.ts and confirmed it auto-generates a page from existing endpoints
