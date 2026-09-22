@@ -68,6 +68,8 @@ Haven't started on tests yet.
 
 ## 2026-09-21
 
-- I have been asked to stop working on the landing page after having spent some time over the weekend on it so I'm not able to finish what I planned.
-- I spent time today trying to find another issue to pick up instead, as requested. It's challenging to find something I can learn how to do in a short period of time.
+- I have been asked to stop working on the landing page and pick up a different issue instead. I opened a PR with the progress I had made on the landing page up to that point.
+- I spent time today trying to find another issue to work on instead, as requested. It's challenging to find something I can learn how to do in a short period of time.
+- By the end of the day I had found a new issue, and will be working with another team member. I started drafting some very rough wireframes for how logged-in users might see modules, tutorials, and labs for our app.
+
 
