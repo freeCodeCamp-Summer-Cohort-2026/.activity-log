@@ -72,4 +72,8 @@ Haven't started on tests yet.
 - I spent time today trying to find another issue to work on instead, as requested. It's challenging to find something I can learn how to do in a short period of time.
 - By the end of the day I had found a new issue, and will be working with another team member. I started drafting some very rough wireframes for how logged-in users might see modules, tutorials, and labs for our app.
 
+## 2026-09-23
+
+- Added comments to a PR for the app landing page (not sure if comments get counted in the github activity automatically); added comments to an issue a teammate is working on as well
+- Spent time learning about the new issue I'm working on, which is to create web interfaces for the labs. We have a sample lab/activity page that someone else created awhile ago and I'm reviewing that code to try to understand it as a way to get started on my issue. It uses React, which is very new to me, so I have a lot of learning to do!
 
