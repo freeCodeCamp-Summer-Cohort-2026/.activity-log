@@ -77,3 +77,10 @@ Haven't started on tests yet.
 - Added comments to a PR for the app landing page (not sure if comments get counted in the github activity automatically); added comments to an issue a teammate is working on as well
 - Spent time learning about the new issue I'm working on, which is to create web interfaces for the labs. We have a sample lab/activity page that someone else created awhile ago and I'm reviewing that code to try to understand it as a way to get started on my issue. It uses React, which is very new to me, so I have a lot of learning to do!
 
+## 2026-09-24
+
+- Met with a teammate to discuss where things are in the project so they could think more about where they might jump in to help next
+- Reviewed and approved a PR; made comments on another PR
+- Drew a very rough wireframe for a lab template page for the issue I'm working on
+- Started the code for a sample lab template page based on the wireframe
+
