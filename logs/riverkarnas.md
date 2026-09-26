@@ -1,3 +1,8 @@
+## 2026-09-25
+**history-heroes - issue #151**
+- Styled `NotFoundPage`
+- Tested `NotFoundPage` against unknown route reaching the page
+  
 ## 2026-09-23
 **history-heroes - issue #168**
 - Updated PR and set it for review
