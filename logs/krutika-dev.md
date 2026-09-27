@@ -1,3 +1,11 @@
+## 2026-09-24
+
+I referred resources to learn nest.js.
+
+## 2026-09-23
+
+I referred resources to learn better auth.
+
 ## 2026-09-09
 
 I referred the resources on design and figma and created a draft for "Create A Module Page" in figma.
